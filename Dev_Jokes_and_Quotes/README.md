@@ -11,7 +11,9 @@
 
 ### ALL THE BEST :heart:
 
-
+***
+Think twice code Once !!
+***
 ***
 first rule of programming,
 if it works dont touch it
