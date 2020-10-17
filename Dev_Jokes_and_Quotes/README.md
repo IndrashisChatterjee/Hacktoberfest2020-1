@@ -12,7 +12,7 @@
 ### ALL THE BEST :heart:
 
 ***
-Think twice code Once !!
+![hacktober meme.jpg](./images/hacktober%20meme.jpg)
 ***
 ***
 first rule of programming,
